@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>keys/key_decrypted.key</file>
+        <file>keys/key_encrypted.key</file>
+    </qresource>
+</RCC>
